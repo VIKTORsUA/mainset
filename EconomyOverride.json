@@ -222,14 +222,6 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "BP_WheelBarrow_Metal",
-          "base-purchase-price": "200000",
-          "base-sell-price": "60000",
-          "delta-price": "-1.0",
-          "can-be-purchased": "true",
-          "required-famepoints": "-1"
-        },
-        {
           "tradeable-code": "Electrician_Tools",
           "base-purchase-price": "3000",
           "base-sell-price": "-1",
