@@ -402,7 +402,16 @@
           "can-be-purchased": "true"
         }
       ],
-      "A_0_Hospital": [],
+      "A_0_Hospital": [
+        {
+          "tradeable-code": "BP_PlasticSurgeryService",
+          "base-purchase-price": "50g",
+          "base-sell-price": "10417",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default",
+          "required-famepoints": "-1"
+        }
+      ],
       "A_0_Barber": [],
       "B_4_Armory": [
         {
@@ -1228,17 +1237,17 @@
           "required-famepoints": "-1"
         },
         {
-          "tradeable-code": "BP_PlasticSurgeryService",
-          "base-purchase-price": "25000",
-          "base-sell-price": "10417",
+          "tradeable-code": "Syringe",
+          "base-purchase-price": "464",
+          "base-sell-price": "300",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
           "required-famepoints": "-1"
         },
         {
-          "tradeable-code": "Syringe",
-          "base-purchase-price": "464",
-          "base-sell-price": "300",
+          "tradeable-code": "BP_PlasticSurgeryService",
+          "base-purchase-price": "25g",
+          "base-sell-price": "10417",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
           "required-famepoints": "-1"
@@ -1843,7 +1852,16 @@
           "can-be-purchased": "true"
         }
       ],
-      "C_2_Hospital": [],
+      "C_2_Hospital": [
+        {
+          "tradeable-code": "BP_PlasticSurgeryService",
+          "base-purchase-price": "50g",
+          "base-sell-price": "10417",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default",
+          "required-famepoints": "-1"
+        }
+      ],
       "C_2_Barber": [],
       "Z_3_Armory": [
         {
@@ -2396,7 +2414,16 @@
           "can-be-purchased": "true"
         }
       ],
-      "Z_3_Hospital": [],
+      "Z_3_Hospital": [
+        {
+          "tradeable-code": "BP_PlasticSurgeryService",
+          "base-purchase-price": "50g",
+          "base-sell-price": "10417",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default",
+          "required-famepoints": "-1"
+        }
+      ],
       "Z_3_Barber": []
     }
   }
