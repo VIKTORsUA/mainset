@@ -1582,6 +1582,22 @@
           "delta-price": "1.0",
           "required-famepoints": "500",
           "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "KeyCardBunker_Level01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "500",
+          "delta-price": "1.0",
+          "required-famepoints": "500",
+          "can-be-purchased": "false"
+        },
+        {
+          "tradeable-code": "KeyCardBunker_Level02",
+          "base-purchase-price": "-1",
+          "base-sell-price": "500",
+          "delta-price": "1.0",
+          "required-famepoints": "500",
+          "can-be-purchased": "false"
         }
       ],
       "C_2_BoatShop": [],
