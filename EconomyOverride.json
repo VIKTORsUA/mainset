@@ -19,46 +19,6 @@
     "traders": {
       "A_0_Armory": [
         {
-          "tradeable-code": "C4_CircuitBoard",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Detonator",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Keypad",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Pack",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4",
-          "base-purchase-price": "200g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
           "tradeable-code": "Claymore",
           "base-purchase-price": "10g",
           "base-sell-price": "-1",
@@ -406,46 +366,6 @@
       ],
       "A_0_Barber": [],
       "B_4_Armory": [
-        {
-          "tradeable-code": "C4_CircuitBoard",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Detonator",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Keypad",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Pack",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4",
-          "base-purchase-price": "200g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
         {
           "tradeable-code": "Claymore",
           "base-purchase-price": "10g",
@@ -1872,46 +1792,6 @@
       ],
       "C_2_Barber": [],
       "Z_3_Armory": [
-        {
-          "tradeable-code": "C4_CircuitBoard",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Detonator",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Keypad",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4_Pack",
-          "base-purchase-price": "70g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
-        {
-          "tradeable-code": "C4",
-          "base-purchase-price": "200g",
-          "base-sell-price": "-1",
-          "delta-price": "1.0",
-          "required-famepoints": "500",
-          "can-be-purchased": "false"
-        },
         {
           "tradeable-code": "Claymore",
           "base-purchase-price": "10g",
