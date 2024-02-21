@@ -2314,5 +2314,12 @@
       ],
       "Z_3_Barber": []
     }
+  },
+  "main": {
+    "Zones": [],
+    "Squads": [],
+    "Vehicles": [],
+    "Flags": [],
+    "Players": []
   }
 }
